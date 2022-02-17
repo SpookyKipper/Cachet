@@ -72,7 +72,7 @@
             },
             "require": {
                 "nikic/php-parser": "~0.9",
-                "php": ">=5.3.3",
+                "php": ">=8.1.2",
                 "symfony/console": "~2.1",
                 "symfony/filesystem": "~2.1",
                 "symfony/finder": "~2.1"
